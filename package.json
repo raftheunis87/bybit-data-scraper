@@ -1,0 +1,15 @@
+{
+  "name": "bybit-data-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "json-2-csv": "^3.17.0"
+  }
+}
